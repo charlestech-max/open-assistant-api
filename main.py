@@ -1,4 +1,3 @@
-    logging_provider,
     app_provider,
     handle_exception,
     pagination_provider,
