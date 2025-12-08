@@ -1,4 +1,3 @@
-from app.providers import (
     logging_provider,
     app_provider,
     handle_exception,
