@@ -1,7 +1,3 @@
-from fastapi import FastAPI
-from app.providers import (
-    logging_provider,
-    app_provider,
     handle_exception,
     pagination_provider,
     route_provider,
