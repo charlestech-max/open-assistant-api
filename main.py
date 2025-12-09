@@ -1,4 +1,3 @@
-    handle_exception,
     pagination_provider,
     route_provider,
     auth_provider,
