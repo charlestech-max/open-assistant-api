@@ -1,4 +1,3 @@
-    pagination_provider,
     route_provider,
     auth_provider,
 )
