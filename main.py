@@ -1,6 +1,3 @@
-    handle_exception,
-    pagination_provider,
-    route_provider,
     auth_provider,
 )
 from config.config import settings
