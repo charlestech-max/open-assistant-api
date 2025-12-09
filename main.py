@@ -1,4 +1,3 @@
-    route_provider,
     auth_provider,
 )
 from config.config import settings
