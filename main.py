@@ -1,4 +1,3 @@
-from config.config import settings
 import uvicorn
 
 
