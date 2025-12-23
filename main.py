@@ -1,4 +1,3 @@
-import uvicorn
 
 
 def create_app() -> FastAPI:
