@@ -1,4 +1,3 @@
-def create_app() -> FastAPI:
     _app = FastAPI()
 
     register(_app, logging_provider)
