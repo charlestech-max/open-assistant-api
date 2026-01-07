@@ -1,4 +1,3 @@
-    _app = FastAPI()
 
     register(_app, logging_provider)
     register(_app, app_provider)
